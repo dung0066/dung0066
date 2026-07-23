@@ -28,22 +28,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dung0066&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dung0066&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -56,14 +40,6 @@
 <img src="https://img.shields.io/badge/Website-00AEEF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dung0066&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
