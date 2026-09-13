@@ -10,15 +10,6 @@
 
 ---
 
-# 👨‍💻 About Me
-
-- 🌐 Website: **https://daoduydung.io.vn**
-- 💻 Full Stack Web Developer
-- 🚀 Love PHP, JavaScript, React & Next.js
-- 📚 Always learning new technologies
-- ⚡ Passionate about UI/UX & Open Source
-
----
 
 # 🛠 Tech Stack & Tools
 
