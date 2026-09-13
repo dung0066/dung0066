@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=ĐÀO%20DUY%20DŨNG&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+<!-- Header Neon phát sáng với font Alfa Slab One -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=%C4%90%C3%80O%20DUY%20D%C5%A8NG&fontSize=52&fontAlignY=36&fontColor=00F2FE&desc=%E2%80%94%20FULL%20STACK%20SOFTWARE%20ENGINEER%20%E2%80%94&descFontSize=16&descAlignY=58&descAlign=50&fontFamily=Alfa%20Slab%20One&stroke=00BFFF&strokeWidth=1" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=00D2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Developer;Laravel+%7C+Next.js+%7C+Modern+Cloud;Crafting+scalable+%26+high-performance+web+apps;Turning+complex+logic+into+clean+solutions." alt="Typing SVG" />
 </p>
 
+<!-- Social Connect Badges -->
 <p align="center">
   <a href="https://daoduydung.io.vn" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="32"/>
