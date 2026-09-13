@@ -30,16 +30,9 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/dung0066" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="34"/>
-  </a>
   <a href="https://daoduydung.io.vn" target="_blank">
     <img src="https://img.shields.io/badge/Website-00AEEF?style=for-the-badge&logo=google-chrome&logoColor=white" height="34"/>
   </a>
-  <a href="daoduydungmr1672006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
-  </a>
-</p>
+
 
 ---
