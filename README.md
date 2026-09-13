@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=00D2FF&center=true&vCenter=true&width=800&lines=echo+%22Clean+code%2C+better+solutions.%22;echo+%22Focusing+on+Laravel%2C+Next.js+%26+APIs.%22;echo+%22Feel+free+to+explore+my+repos!%22" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Hi+%F0%9F%91%8B%2C+I'm+%C4%90%C3%A0o+Duy+D%C5%A8NG;%3C+Full+Stack+Developer+%2F%3E" alt="Name Typing" />
 </p>
 
 <p align="center">
@@ -43,7 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
-</p>
