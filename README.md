@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=38EF7D&center=true&vCenter=true&width=750&lines=%24+stack+--include%3D%5BPHP%2C+JavaScript%2C+React%2C+Next.js%5D;%24+status+--current%3D%22Crafting+scalable+web+apps%22;%24+echo+%22Welcome+to+my+GitHub+workspace!%22" alt="Terminal Subtitle" />
-</p>
-
 
 # 🛠 Tech Stack & Tools
 
