@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="LINK_GIF_CUA_M" width="100%" alt="Full Stack Developer Banner" />
+  <img src="banner.gif" width="100%" alt="Full Stack Developer Banner" />
 </p>
-
-<h1 align="center">👨‍💻 FULL STACK DEVELOPER</h1>
-
-<p align="center">
-  Building web apps · Learning every day 🚀
-</p>
-
 <hr />
 <p align="center">
   <img
