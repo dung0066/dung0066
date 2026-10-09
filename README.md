@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_GIF_CUA_M" width="600" alt="Banner" />
+  <img src="banner.gif" width="600" alt="Banner" />
 </p>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
