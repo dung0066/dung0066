@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.gif" width="100%" alt="Full Stack Developer Banner" />
-</p>
-<hr />
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6"
