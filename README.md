@@ -14,3 +14,4 @@
     alt="Node.js, Express, MySQL, Git, GitHub, VS Code"
   />
 </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dung0066&theme=solarized_dark)
