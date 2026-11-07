@@ -1,8 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&animation=twinkling&fontColor=ffffff" />
+</p>
+
+<!-- DÀN ICON CỦA DŨNG -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6"
+    width="480"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode&perline=6"
+    width="480"
+    alt="Node.js, Express, MySQL, Git, GitHub, VS Code"
+  />
+</p>
+
+<br />
+
+<!-- STATS CARD -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung0066&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
