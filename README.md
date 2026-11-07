@@ -5,29 +5,16 @@
 
 <!-- TECH STACK ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,express,laravel,java,spring&perline=6" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,nodejs,express,laravel,java,spring&perline=6" alt="Frontend & Backend" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,photoshop,figma&perline=8" alt="My Tools" />
-</p>
-
-<br />
-
-<!-- RADAR CHART & TOP LANGUAGES -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=dung0066&theme=dark" width="48%" alt="Skill Radar" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=dung0066&theme=dark" width="48%" alt="Top Languages" />
-</p>
-
-<!-- STATS & PROFILE DETAILS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dung0066&theme=dark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dung0066&theme=dark" width="48%" alt="Profile Details" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,photoshop,figma&perline=8" alt="Database & Tools" />
 </p>
 
 <br />
 
-<!-- STREAK STATS -->
+<!-- GITHUB STATS & TOP LANGS (STABLE SERVER) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dung0066&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung0066&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
