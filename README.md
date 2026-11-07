@@ -16,8 +16,8 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/radar?username=dung0066&theme=solarized_dark" 
-    alt="GitHub Radar Chart" 
+    src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" 
+    alt="GitHub Stats" 
     width="480"
   />
 </p>
