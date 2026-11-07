@@ -1,24 +1,8 @@
-<br />
-
-<!-- FRONTEND STACK (6 ICONS) -->
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6"
-    width="480"
-    alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS"
-  />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind" />
 </p>
-
-<!-- BACKEND & TOOLS (6 ICONS) -->
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode&perline=6"
-    width="480"
-    alt="Node.js, Express, MySQL, Git, GitHub, VS Code"
-  />
-</p>
-
-<br />
-
-<!-- STATS & TOP LANGUAGES -->
-
