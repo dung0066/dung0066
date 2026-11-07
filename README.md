@@ -16,7 +16,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=synthwave&cache_seconds=1800" 
     alt="GitHub Stats" 
     width="480"
   />
