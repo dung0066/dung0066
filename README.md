@@ -22,7 +22,4 @@
 <br />
 
 <!-- STATS CARD -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung0066&layout=compact&theme=dark" width="48%" alt="Top Languages" />
-</p>
+
