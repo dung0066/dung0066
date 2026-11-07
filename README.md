@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=120&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- DÀN ICON CỦA DŨNG -->
+<br />
+
+<!-- FRONTEND STACK (6 ICONS) -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6"
@@ -11,6 +13,7 @@
   />
 </p>
 
+<!-- BACKEND & TOOLS (6 ICONS) -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode&perline=6"
@@ -21,5 +24,8 @@
 
 <br />
 
-<!-- STATS CARD -->
-
+<!-- STATS & TOP LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dung0066&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dung0066&layout=compact&theme=dark" width="48%" alt="Top Languages" />
+</p>
